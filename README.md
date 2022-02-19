@@ -51,4 +51,9 @@ Added options:
 
 
 how to used?
-add css and js to your project and Watch the demo and use the codes according to your needs.
+
+see aos documents, 
+
+add css and js to your project, 
+
+Watch the demo and use the codes according to your needs.
