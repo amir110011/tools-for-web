@@ -1,0 +1,16 @@
+/* ------Start Zoom An Image----------- */
+ .zoom-in {
+     width: 300px;
+     height: 300px;
+     overflow: hidden;
+     margin: 0 auto;
+ }
+
+ .zoom-in img {
+     width: 100%;
+     transition: 0.5s all ease-in-out;
+ }
+
+ .zoom-in:hover img {
+     transform: scale(1.5);}
+/* ------End Zoom An Image----------- */
