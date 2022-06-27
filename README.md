@@ -1,59 +1,11 @@
-# jtfw (java script Tools For Website)
+This is a repository of tools for the web.
+Most of these tools are used for Persian languages and are right to left by default.
 
-This project is designed to apply simple motions to html elements and uses the aos library.
-https://michalsnik.github.io/aos/
+=========================
+این یک ریپازیتوری از ابزار برای وب هست.
+اکثر این ابزار برای فارسی زبان ها کاربرد دارد و به صورت پیش فرض راست به چپ هستند.
 
-options:
-aos options:
+دوستان اگر ابزار خاصی برای فارسی سازی صفحات و یا محیط وب فارسی پیشنهاد دارید خوشحال میشم با ما به اشتراک بزارید.
 
---> flip-up
-
---> fade-down
-
---> fade-in
-
---> fade-down
-
---> fade-in
-
---> fade-down
-
---> fade-up
-
---> fade-down
-
---> fade-in
-
---> fade-up
-
---> fade-in
-
---> fade-up
-
---> fade-down
-
---> fade-up
-
---> zoom-out
-
---> fade-up
-
---> zoom-out
-
---> fade-in
-
---> zoom-out-up
-
---> zoom-out-down
-
-Added options:
---> Zoom in while floating
-
-
-how to used?
-
-see aos documents, 
-
-add css and js to your project, 
-
-Watch the demo and use the codes according to your needs.
+ابزارهایی که میدونید در این حوزه کارایی دارن رو در یک فایل متنی با نام دلخواه خودتون در پوشه comments ذخیره کنید.
+تشکر
